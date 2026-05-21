@@ -1,15 +1,6 @@
-# CollectionBuilder-Sheets
-
-CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV (such as a published Google Sheet!). 
-This enables live collaboration to prototype collections with minimal set up.
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server (*or built automatically and hosted for free on GitHub Pages!*).
-
-Visit the [CB-Sheets demo site](https://collectionbuilder.github.io/collectionbuilder-sheets/) to see it in action and even test your own metadata!
-
-To learn more check [docs/sheets-metadata.md](docs/sheets-metadata.md) or visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections.
-
-Note that CB-Sheets is based on and mostly compatible with [CollectionBuilder-GH](https://github.com/CollectionBuilder/collectionbuilder-gh), but handles the metadata parsing in a fundamentally different way. 
+# When Dawn Breaks
+### a collection of sunsets and sunrises
+url: 
 
 ----------
 
@@ -27,7 +18,7 @@ Object metadata is exposed using [Schema.org](http://schema.org) and [Open Graph
 Questions can be directed to **collectionbuilder.team@gmail.com**
 
 ## License
-
+add later
 CollectionBuilder documentation and general web content is licensed [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). 
 This license does *NOT* include any objects or images used in digital collections, which may have individually applied licenses described by a "rights" field.
 CollectionBuilder code is licensed [MIT](https://github.com/CollectionBuilder/collectionbuilder-gh/blob/main/LICENSE). 
