@@ -11,6 +11,12 @@ This project is a collection of sunset and sunrise photographs. Focusing on phot
 
 ## Roles & Responsibilities
 
+---
+Wren : Proposed the initial idea of sunsets as the collection topic to the group, started the repository and updated CollectionBuilder web formatting, contributed to collection photos and imputting metadata
+Bella: Contributed to the metadata and collection photos; wrote the project description, data management plan, and poster information
+Alexa: Collection images from online GLAM digital collections; refined metadata and created custom fields; wrote initial project overview and tables for data management plan; coded and formatted DMP for GitHub
+--- 
+
 ## Data Inventory & Provenance
 
 ***Source Objects***
