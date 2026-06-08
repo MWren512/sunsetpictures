@@ -17,9 +17,7 @@ This project is a collection of sunset and sunrise photographs. Focusing on phot
 
 | Source Institution | Number of Objects | How It Was Accessed | Rights |
 | ------------------ | ----------------- | ------------------- | ------ |
-| Flickr | 6 | Direct download via online catalog (no account required) | **CC BY-SA 2.0** “You must give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.” (accessed 5/27/26)
-**CC BY-NC-SA 2.0** “You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use the material for commercial purposes. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.” (accessed 5/27/26)
-**CC BY 2.0** “You must give appropriate credit, provide a link to the license, and indicate if changes were made.” (accessed 5/27/26) |
+| Flickr | 6 | Direct download via online catalog (no account required) | **CC BY-SA 2.0** “You must give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.” (accessed 5/27/26) **CC BY-NC-SA 2.0** “You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use the material for commercial purposes. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.” (accessed 5/27/26) **CC BY 2.0** “You must give appropriate credit, provide a link to the license, and indicate if changes were made.” (accessed 5/27/26) |
 
 *File Inventory*
 
