@@ -18,6 +18,8 @@ This project is a collection of sunset and sunrise photographs. Focusing on phot
 | Source Institution | Number of Objects | How It Was Accessed | Rights |
 | ------------------ | ----------------- | ------------------- | ------ |
 | Flickr | 6 | Direct download via online catalog (no account required) | **CC BY-SA 2.0** “You must give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.” (accessed 5/27/26) **CC BY-NC-SA 2.0** “You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use the material for commercial purposes. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.” (accessed 5/27/26) **CC BY 2.0** “You must give appropriate credit, provide a link to the license, and indicate if changes were made.” (accessed 5/27/26) |
+| Library of Congress - Detroit Publishing Company | 1 | Direct download via online catalog (no account required) | “Detroit Publishing Company photos were published primarily between the 1890s and the 1930s. Those published more than 95 years ago are in the public domain.” (accessed 5/27/26) |
+|Library of Congress - Photochrom Collection | 3 | Direct download via online catalog (no account required) | “There are no known restrictions on publication of photochroms published by the Photoglob Company. ” (accessed 5/27/26) | 
 
 *File Inventory*
 
