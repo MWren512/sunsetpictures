@@ -33,6 +33,13 @@ This project is a collection of sunset and sunrise photographs. Focusing on phot
 
 *File Inventory*
 
+| File Type | Description | Number | Approximate Volume |
+| ------------------ | ----------------- | ------------------- | ------ |
+| JPG/JPEG | Digitized object images | 21 | 2.9 MB |
+| PNG | Digitized object images | 3 | 2 MB |
+| CSV | CollectionBuilder metadata spreadsheet | 1 | <1 MB |
+| MD | Pages controlling content of website | 12 | <1 MB |
+
 *Tools and Access*
 
 Tools and software needed to work with our data/ reproduce our project includes: Google Drive to store images, document ideas, create spreadsheets for our metadata. GitHub and collection builder are needed to create the site for the public to be able to look at our collection. GitHub was used to personalize our collection for users to navigate our collection with ease. You are able to access these tools via the internet, all you need is an email to be able to create accounts for Google Drive and GitHub.
